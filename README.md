@@ -1,5 +1,6 @@
-# Kotlin-Apps
+# Kotlin-Apps :wink:
 GitHub repository with apps made with the kotlin programming language.
+If you want to run these projects on your phone, you will need to change the API to make it work, in this case, all the projects are made with API 33 (Android 13).
 
     - Author: Andrés Felipe Barrera Cuevas.
     - Date: 28/07/23.
