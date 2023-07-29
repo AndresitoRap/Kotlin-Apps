@@ -6,18 +6,18 @@ GitHub repository with apps made with the kotlin programming language.
     - Kotlin Version: 1.8.21.
 
 - [BasicLayoutCodelab](#basiclayoutcodelab).
-- [BasicLayoutCodelab2](https://github.com/AndresitoRap/Kotlin-Apps#basiclayoutcodelab2).
-- [BasicsCodelab](https://github.com/AndresitoRap/Kotlin-Apps#basicscodelab).
-- [Calculadora](https://github.com/AndresitoRap/Kotlin-Apps#calculadora).
-- [Calculadora2](https://github.com/AndresitoRap/Kotlin-Apps#calculadora2).
-- [ComposeStates](https://github.com/AndresitoRap/Kotlin-Apps#composestates).
-- [Cupcakes](https://github.com/AndresitoRap/Kotlin-Apps#cupcakes).
-- [Dashboard](https://github.com/AndresitoRap/Kotlin-Apps#dashboard).
-- [Dashboard2](https://github.com/AndresitoRap/Kotlin-Apps#dashboard2).
-- [Instructivo](https://github.com/AndresitoRap/Kotlin-Apps#instructivo).
-- [LoginProject](https://github.com/AndresitoRap/Kotlin-Apps#loginproject).
-- [LoginProject2](https://github.com/AndresitoRap/Kotlin-Apps#loginproject).
-- [SenaExpress](https://github.com/AndresitoRap/Kotlin-Apps#senaexpress).
+- [BasicLayoutCodelab2](#basiclayoutcodelab2).
+- [BasicsCodelab](#basicscodelab).
+- [Calculadora](#calculadora).
+- [Calculadora2](#calculadora2).
+- [ComposeStates](#composestates).
+- [Cupcakes](#cupcakes).
+- [Dashboard](#dashboard).
+- [Dashboard2](#dashboard2).
+- [Instructivo](#instructivo).
+- [LoginProject](#loginproject).
+- [LoginProject2](#loginproject).
+- [SenaExpress](#senaexpress).
 
 ## BasicLayoutCodelab
 > In this application you learn the use of our screen design, the use and knowledge of what is a `@Composable`. <br><br>
