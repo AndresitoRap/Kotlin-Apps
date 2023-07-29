@@ -19,11 +19,9 @@ GitHub repository with apps made with the kotlin programming language.
 - [LoginProject2](#loginproject).
 - [SenaExpress](#senaexpress).
 
-## BasicLayoutCodelab
-> In this application you learn the use of our screen design, the use and knowledge of what is a `@Composable`. <br><br>
-> View [BasicsLayoutCodelab](https://github.com/AndresitoRap/Kotlin-Apps/tree/main/BasicLayoutCodelab).
-### Preview App
-<img alt=" " width="240" src="https://github.com/AndresitoRap/Kotlin-Apps/assets/139923266/4fb3ab96-8e5a-499d-96f6-e0e1589aedfa" >
+### BasicLayoutCodelab
+> In this application, you learn the use of our screen design, the use and knowledge of what a `@Composable` is.
+> ![Preview App](https://github.com/AndresitoRap/Kotlin-Apps/assets/139923266/4fb3ab96-8e5a-499d-96f6-e0e1589aedfa)
 
 ## BasicLayoutCodelab2
 > In this application you learn the use of the design of our screen, the use and knowledge of what a `@Composable` is, this time set in a grocery store of the entity of the `SENA`. <br><br>
