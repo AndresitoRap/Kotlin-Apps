@@ -5,7 +5,7 @@ GitHub repository with apps made with the kotlin programming language.
     - Date: 28/07/23.
     - Kotlin Version: 1.8.21.
 
-- [BasicLayoutCodelab](https://github.com/AndresitoRap/Kotlin-Apps#basiclayoutcodelab).
+- [BasicLayoutCodelab](#basiclayoutcodelab).
 - [BasicLayoutCodelab2](https://github.com/AndresitoRap/Kotlin-Apps#basiclayoutcodelab2).
 - [BasicsCodelab](https://github.com/AndresitoRap/Kotlin-Apps#basicscodelab).
 - [Calculadora](https://github.com/AndresitoRap/Kotlin-Apps#calculadora).
